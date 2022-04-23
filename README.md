@@ -6,6 +6,8 @@
 
 [![CI](https://github.com/SURYAPRAKASH126/M2_EMBEDDED-SYSTEM-PROJECT-2022/actions/workflows/main.yml/badge.svg)](https://github.com/SURYAPRAKASH126/M2_EMBEDDED-SYSTEM-PROJECT-2022/actions/workflows/main.yml)
 
+[![Unit Testing](https://github.com/SURYAPRAKASH126/M2_EMBEDDED-SYSTEM-PROJECT-2022/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/SURYAPRAKASH126/M2_EMBEDDED-SYSTEM-PROJECT-2022/actions/workflows/unit_testing.yml)
+
 [![CI](https://github.com/SURYAPRAKASH126/M2_EMBEDDED-SYSTEM-PROJECT-2022/actions/workflows/valgrind.yml/badge.svg)](https://github.com/SURYAPRAKASH126/M2_EMBEDDED-SYSTEM-PROJECT-2022/actions/workflows/valgrind.yml)
 
 [![CI](https://github.com/SURYAPRAKASH126/M2_EMBEDDED-SYSTEM-PROJECT-2022/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SURYAPRAKASH126/M2_EMBEDDED-SYSTEM-PROJECT-2022/actions/workflows/Analysis.yml)
