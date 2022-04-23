@@ -1,6 +1,6 @@
 # M2_EMBEDDED-SYSTEM-PROJECT-2022
 
-
+[![Build](https://github.com/SURYAPRAKASH126/M2_EMBEDDED-SYSTEM-PROJECT-2022/actions/workflows/build.yml/badge.svg)](https://github.com/SURYAPRAKASH126/M2_EMBEDDED-SYSTEM-PROJECT-2022/actions/workflows/build.yml)
 
 
 <a href="https://app.codiga.io/public/user/github/SURYAPRAKASH126">
